@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://smdae.github.io/KJd/sitemap.KJd.gz
